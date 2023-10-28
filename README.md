@@ -1,2 +1,3 @@
 # apni-repo-devops
-Made by Smith Chauhan
+
+Made by Smith Chauhan and friends
